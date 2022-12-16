@@ -1,2 +1,3 @@
 new file
 some info from git
+new info from local
